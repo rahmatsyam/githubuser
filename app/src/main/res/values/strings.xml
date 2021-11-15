@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Github User Dicoding</string>
+    <string name="txt_followers">Followers</string>
+    <string name="txt_zero">0</string>
+    <string name="txt_following">Following</string>
+    <string name="txt_repository">Repository</string>
+    <string name="txt_example_city">Makassar</string>
+    <string name="txt_google_inc">Google Inc.</string>
+    <string name="txt_my_name">My Name</string>
+    <string name="txt_username">Username</string>
 </resources>
